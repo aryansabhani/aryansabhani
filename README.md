@@ -4,30 +4,27 @@
 # Hi 👋, I'm Tushal Gopani
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tushal13&label=Profile%20views&color=0e75b6&style=flat" alt="tushal13" />
+  <img src="https://komarev.com/ghpvc/?username=aryansabhani&label=Profile%20views&color=0e75b6&style=flat" alt="aryansabhani" />
 </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tushal13&theme=gruvbox" alt="tushal13" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aryansabhani&theme=gruvbox" alt="aryansabhani" />
   </a>
 </p>
 
 ## About Me
 
-- 🔭 I’m currently working on **AI Integration with Flutter**
 - 👯 I’m looking to collaborate with **IT Companies**
 - 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **Flutter**
-- 📫 How to reach me: [tushalgopani003@gmail.com](mailto:tushalgopani003@gmail.com)
-- 👨‍💻 Check out my projects at [Tushal Gopani](https://tushal.vercel.app/)
+- 📫 How to reach me: [aryansabhani2660@gmail.com](mailto:aryansabhani2660@gmail.com)
 - 📄 Resume: [View here](https://drive.google.com/file/d/1fQUzgBOg1S2dWXXs6w5ic3Kb15XjAGGC/view)
-- ⚡ Fun fact: **AI is like your coding companion, boosting productivity like magic! ✨**
 
 ## Connect with Me
 
 <div> <a href="https://www.linkedin.com/in/gopani tushal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/tushal13" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/aryansabhani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/t._.u_5" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:tushalgopani003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -55,15 +52,15 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushal13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushal13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=tushal13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryansabhani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansabhani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aryansabhani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 
 ## GitHub Activity Graph
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tushal13&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryansabhani&theme=react-dark"/>
 
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" style="max-width: 100%;">
