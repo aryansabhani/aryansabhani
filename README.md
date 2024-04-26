@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: [aryansabhani2660@gmail.com](mailto:aryansabhani2660@gmail.com)
-- 📄 Resume: [View here](https://drive.google.com/file/d/1Hp0Abo2VJaXJq7EUudwRtPbNfzs4NAoQ/view?usp=sharing)
+- 📄 Resume: [View here](https://drive.google.com/file/d/1slYgpzSEfRMg0qnG0o3m7SlDpE0ue6Gs/view?usp=sharing)
 
 ## Connect with Me
 
